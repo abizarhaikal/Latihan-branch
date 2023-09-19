@@ -1,3 +1,3 @@
-# Latihan-branch
-Ini adalah branch development
+# INI BRANCH MAIN
+LAGI BELAJAR GIT LOH INII
 --
